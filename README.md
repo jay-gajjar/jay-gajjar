@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Libraries & Frameworks**
 
-- 💬 Ask me about **angular, javascript**
+- 💬 Ask me about **Angular, Typescript, Nodejs, JavaScript, jQuery, HTML, SASS**
 
 - 📫 How to reach me **gajjarjay.gjp@gmail.com**
 
