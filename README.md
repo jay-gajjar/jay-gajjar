@@ -1,9 +1,9 @@
 <h1 align="left">Hey There! 👋, I'm Jay Gajjar</h1>
 <h3 align="left">A passionate frontend web developer from India</h3>
 
-- 🔭 I’m currently working as **Angular Developer**
+- 🔭 I’m currently working as a **Front End Developer**
 
-- 🌱 I’m currently learning **Libraries & Frameworks**
+- 🌱 I’m currently working on projects that are built in **Angular Framework**
 
 - 💬 Ask me about **Angular, Typescript, Nodejs, JavaScript, jQuery, HTML, SASS**
 
