@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Angular, Typescript, Nodejs, JavaScript, jQuery, HTML, SASS**
 
-- 📫 How to reach me **gajjarjay.gjp@gmail.com**
+- 📫 How to reach me **gajjarjay1711@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
